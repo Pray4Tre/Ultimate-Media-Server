@@ -9,5 +9,5 @@
    - [Jackett](https://github.com/Pray4Tre/Ultimate-Media-Server/wiki/Jackett)
 4. Install [Nextcloud](https://github.com/Pray4Tre/Ultimate-Media-Server/wiki/Nextcloud)
 5. Extras
-   - [Save 4K and 1080p Copies](https://github.com/Pray4Tre/Ultimate-Media-Server/wiki/Save-4K-and-1080p-Copies)
    - [Plex DupeFinder](https://github.com/Pray4Tre/Ultimate-Media-Server/wiki/Plex-DupeFinder)
+   - [Save 4K and 1080p Copies](https://github.com/Pray4Tre/Ultimate-Media-Server/wiki/Save-4K-and-1080p-Copies)
