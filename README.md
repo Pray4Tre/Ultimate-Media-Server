@@ -1,7 +1,6 @@
 # Ultimate-Media-Server
 
 1. Install [Plex](https://github.com/Pray4Tre/Ultimate-Media-Server/wiki/Plex)
-   - [Plex DupeFinder](https://github.com/Pray4Tre/Ultimate-Media-Server/wiki/Plex-DupeFinder)
 2. Install [uTorrent](https://github.com/Pray4Tre/Ultimate-Media-Server/wiki/uTorrent)
 2. Install Automation Programs
    - [Sonarr](https://github.com/Pray4Tre/Ultimate-Media-Server/wiki/Sonarr)
@@ -11,3 +10,4 @@
 4. Install [Nextcloud](https://github.com/Pray4Tre/Ultimate-Media-Server/wiki/Nextcloud)
 5. Extras
    - [Save 4K and 1080p Copies](https://github.com/Pray4Tre/Ultimate-Media-Server/wiki/Save-4K-and-1080p-Copies)
+   - [Plex DupeFinder](https://github.com/Pray4Tre/Ultimate-Media-Server/wiki/Plex-DupeFinder)
