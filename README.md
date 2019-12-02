@@ -2,7 +2,7 @@
 
 1. Install [Plex](https://github.com/Pray4Tre/Ultimate-Media-Server/wiki/Plex)
    - [Plex DupeFinder](https://github.com/Pray4Tre/Ultimate-Media-Server/wiki/Plex-DupeFinder)
-2. Install [uTorrent|uTorrent](https://github.com/Pray4Tre/Ultimate-Media-Server/wiki/uTorrent)
+2. Install [uTorrent](https://github.com/Pray4Tre/Ultimate-Media-Server/wiki/uTorrent)
 2. Install Automation Programs
    - [Sonarr](https://github.com/Pray4Tre/Ultimate-Media-Server/wiki/Sonarr)
    - [Radarr](https://github.com/Pray4Tre/Ultimate-Media-Server/wiki/Radarr)
