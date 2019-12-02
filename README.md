@@ -11,3 +11,4 @@
 5. Extras
    - [Plex DupeFinder](https://github.com/Pray4Tre/Ultimate-Media-Server/wiki/Plex-DupeFinder)
    - [Save 4K and 1080p Copies](https://github.com/Pray4Tre/Ultimate-Media-Server/wiki/Save-4K-and-1080p-Copies)
+   - [Windows Storage Spaces](https://github.com/Pray4Tre/Ultimate-Media-Server/wiki/Windows-Storage-Spaces)
