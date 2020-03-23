@@ -14,3 +14,4 @@
    - [Windows Storage Spaces](https://github.com/Pray4Tre/Ultimate-Media-Server/wiki/Windows-Storage-Spaces)
    - [Windows Activation](https://github.com/Pray4Tre/Ultimate-Media-Server/wiki/Windows-Activation)
    - [File Renamers](https://github.com/Pray4Tre/Ultimate-Media-Server/wiki/File-Renamers)
+   - [Free Amazon Books](https://github.com/Pray4Tre/Ultimate-Media-Server/wiki/Free-Amazon-Books)
