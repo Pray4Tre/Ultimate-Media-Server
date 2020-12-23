@@ -9,7 +9,7 @@
    - [Jackett](https://github.com/Pray4Tre/Ultimate-Media-Server/wiki/Jackett)
 4. Install [Nextcloud](https://github.com/Pray4Tre/Ultimate-Media-Server/wiki/Nextcloud)
 5. Extras
-   - [Dup Plex](https://github.com/Pray4Tre/Ultimate-Media-Server/wiki/dup_plex)
+   - [Dup Plex](https://github.com/Pray4Tre/Ultimate-Media-Server/wiki/Dup-Plex)
    - [Save 4K and 1080p Copies](https://github.com/Pray4Tre/Ultimate-Media-Server/wiki/Save-4K-and-1080p-Copies)
    - [Windows Storage Spaces](https://github.com/Pray4Tre/Ultimate-Media-Server/wiki/Windows-Storage-Spaces)
    - [Windows Activation](https://github.com/Pray4Tre/Ultimate-Media-Server/wiki/Windows-Activation)
