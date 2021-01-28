@@ -15,3 +15,4 @@
    - [Windows Activation](https://github.com/Pray4Tre/Ultimate-Media-Server/wiki/Windows-Activation)
    - [File Renamers](https://github.com/Pray4Tre/Ultimate-Media-Server/wiki/File-Renamers)
    - [Free Amazon Books](https://github.com/Pray4Tre/Ultimate-Media-Server/wiki/Free-Amazon-Books)
+   - [Comic Books](https://github.com/mylar3/mylar3)
