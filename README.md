@@ -6,6 +6,7 @@
    - [Sonarr](https://github.com/Pray4Tre/Ultimate-Media-Server/wiki/Sonarr)
    - [Radarr](https://github.com/Pray4Tre/Ultimate-Media-Server/wiki/Radarr)
    - [Lidarr](https://github.com/Pray4Tre/Ultimate-Media-Server/wiki/Lidarr)
+   - [Readarr - Coming soon](https://github.com/Readarr/Readarr)
    - [Jackett](https://github.com/Pray4Tre/Ultimate-Media-Server/wiki/Jackett)
 4. Install [Nextcloud](https://github.com/Pray4Tre/Ultimate-Media-Server/wiki/Nextcloud)
 5. Extras
